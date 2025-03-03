@@ -1,6 +1,6 @@
 from typing import List
 def how_sum_tabulate(target_sum: int, numbers: List[int]) -> List[int]:
-    """_Determine how a given target sum can be achieved , given a lit of integers_
+    """_Determine how a given target sum can be achieved , given a list of integers_
 
     Args:
         target_sum (int): _Desired sum_
